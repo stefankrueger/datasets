@@ -29,7 +29,7 @@
     * ![data](pic/kaggleGMB.png)
 
 * ### 3. Tipp von V. (ehemals GMB Mitwirkender)
-    * einige Datensätze enden in 404 (lange her), einige hinter Paywall, andere nicht immer rechtlich klar, wieder andere erfodern Anfrage wie z.b. i2b2, mittlerweile Übernommen durch Harvard Medical School n2c2-nlp
+    * einige Datensätze enden in 404 (lange her), einige hinter Paywall, andere nicht immer rechtlich klar, wieder andere erfodern Anfrage wie z.b. i2b2, mittlerweile übernommen durch Harvard Medical School n2c2-nlp
     * Sammlung NER: https://github.com/juand-r/entity-recognition-datasets
         * vllt hiervon: https://www.clips.uantwerpen.be/conll2003/ner/
 
