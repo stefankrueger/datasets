@@ -38,7 +38,7 @@
 * ### 4. SpERT: Span-based Entity and Relation Transformer 
     * original paper: https://arxiv.org/abs/1909.07755
     * code: https://github.com/lavis-nlp/spert
-    * license: https://github.com/lavis-nlp/spert/blob/master/LICENSE (seems good)
+    * license: https://github.com/lavis-nlp/spert/blob/master/LICENSE
     * dataset : ade and conll04 (downloaded)
 
 * ### 5. JointER: Joint Extraction of Entities and Relations Based on a Novel Decomposition Strategy
@@ -49,4 +49,5 @@
 * ### 6. JEREX: "Joint Entity-Level Relation Extractor"
     * original paper: https://arxiv.org/abs/2102.05980
     * code: https://github.com/lavis-nlp/jerex
+    * license: https://github.com/lavis-nlp/spert/blob/master/LICENSE
     * dataset: docred and docred_joint (downloaded)
