@@ -1,7 +1,7 @@
 # datasets
 
 * ## Fine-grained Named Entity Recognition in Legal Documents
-    * Description: Court decisions from 2017 and 2018 were selected for the dataset, published online by the Federal Ministry of Justice and Consumer Protection. The documents originate from seven federal courts: Federal Labour Court (BAG), Federal Fiscal Court (BFH), Federal Court of Justice (BGH), Federal Patent Court (BPatG), Federal Social Court (BSG), Federal Constitutional Court (BVerfG) and Federal Administrative Court (BVerwG).
+    * Description: German court decisions from 2017 and 2018 were selected for the dataset, published online by the Federal Ministry of Justice and Consumer Protection. The documents originate from seven federal courts: Federal Labour Court (BAG), Federal Fiscal Court (BFH), Federal Court of Justice (BGH), Federal Patent Court (BPatG), Federal Social Court (BSG), Federal Constitutional Court (BVerfG) and Federal Administrative Court (BVerwG).
     * Project: https://github.com/elenanereiss/Legal-Entity-Recognition
     * Annotation Guidelines: https://raw.githubusercontent.com/elenanereiss/Legal-Entity-Recognition/master/docs/Annotationsrichtlinien.pdf
     * existing Bachelor thesis: https://raw.githubusercontent.com/elenanereiss/Legal-Entity-Recognition/master/docs/Leitner_LER_BA.pdf
